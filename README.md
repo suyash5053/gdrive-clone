@@ -2,6 +2,6 @@
 
 ## Todo
 
-- [ ] Setup Database and the models
+- [x] Setup Database and the models
 - [ ] Setup Authentication
 - [ ] Add file Upload
